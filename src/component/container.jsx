@@ -3,7 +3,7 @@ import Home from "./home";
 import Education from "./education";
 import About from "./about";
 import Services from "./services";
-// import Contact from "./contact";
+import Contact from "./contact";
 
 
 
@@ -14,7 +14,7 @@ const Container = () => {
       <Education/>
       <About/>
       <Services/>
-      {/* <Contact/> */}
+      <Contact/>
     </div>
   );
 };
