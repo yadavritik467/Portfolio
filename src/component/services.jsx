@@ -37,7 +37,7 @@ const Services = () => {
                  
                  
                 </p>
-                <a href="https://food-front-sandy.vercel.app/">
+                <a href="https://al-riz-food-store.onrender.com/">
                   <AiOutlineLink /> Food-Store
                 </a>
               </div>
